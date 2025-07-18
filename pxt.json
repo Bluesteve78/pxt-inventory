@@ -1,0 +1,11 @@
+{
+  "name": "pxt-inventory",
+  "description": "Adds an RPG-style inventory system.",
+  "dependencies": {},
+  "files": [
+    "inventory.ts",
+    "README.md"
+  ],
+  "preferredEditor": "arcade"
+}
+
