@@ -1,4 +1,4 @@
-//% color=#FF8000 icon="\uf187" block="Inventory"
+//% color=#FF8000 icon="📦" block="Inventory"
 namespace inventory {
     let items: string[] = []
 
